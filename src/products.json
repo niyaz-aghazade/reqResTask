@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "title": "HP",
+      "price": 1000,
+      "count": 1000
+    },
+    {
+      "id": 2,
+      "title": "ACER ",
+      "price": 2230,
+      "count": 2502
+    },
+    {
+      "id": 3,
+      "title": "ASUS",
+      "price": 5295,
+      "count": 495
+    },
+    {
+      "id": 4,
+      "title": "LENOVO",
+      "price": 1559,
+      "count": 4301
+    },
+    {
+      "id": 5,
+      "title": "DELL",
+      "price": 6905,
+      "count": 440
+    },
+    {
+      "id": 6,
+      "title": "ASUS ROG ",
+      "price": 1675,
+      "count": 326
+    },
+    {
+      "id": 7,
+      "title": "MAC",
+      "price": 8493,
+      "count": 532
+    },
+    {
+      "id": 8,
+      "title": "MAC AIR",
+      "price": 7461,
+      "count": 369
+    },
+    {
+      "id": 9,
+      "title": "SAMSUNG ",
+      "price": 153,
+      "count": 1691
+    },
+    {
+      "id": 10,
+      "title": "HP PAVILION",
+      "price": 9813,
+      "count": 2166
+    }
+  ]
